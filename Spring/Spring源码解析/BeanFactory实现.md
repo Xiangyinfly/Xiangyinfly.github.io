@@ -1,0 +1,1 @@
+BeanFactory实现类为DefaultListableBeanFactory
